@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+OBB: Fix plot_images (#7592)
