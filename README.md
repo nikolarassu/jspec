@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Update H1 in Explorer API docs (#7813)
