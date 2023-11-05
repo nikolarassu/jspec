@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Remove unused variables (#8511)
