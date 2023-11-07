@@ -1,1 +1,1 @@
-Add Roboflow 100 Dataset Docs Page (#8065)
+Compress docs images (#8124)
