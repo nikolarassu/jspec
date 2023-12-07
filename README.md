@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add type hinting to explorer.py (#7388)
