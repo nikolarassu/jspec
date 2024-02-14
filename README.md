@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
