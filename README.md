@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Feature: Create HUB Models from CLI or Python Script (#7316)
