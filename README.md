@@ -1,1 +1,1 @@
-fix predict with class filter
+More robust PNNX downloads (#8866)
