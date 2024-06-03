@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Fix Multi-GPU resume bug (#7328)
