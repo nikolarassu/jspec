@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+YOLOv8 INT8 TFLite Inference Example (#7317)
