@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Auto-format by https://ultralytics.com/actions
